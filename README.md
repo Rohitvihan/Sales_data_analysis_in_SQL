@@ -81,13 +81,6 @@ WHERE
 
 ### 3. Data Analysis & Findings
 
-**Sample Business Question:**
-```sql
--- Sales made on 2022-11-05
-SELECT *
-FROM retail_sales
-WHERE sale_date = '2022-11-05';
-```
 
 #### 🔍 Key Findings
 
