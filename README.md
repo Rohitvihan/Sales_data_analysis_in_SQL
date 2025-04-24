@@ -1,4 +1,4 @@
-Project Overview
+
 Project Title: Retail Sales Analysis
 Database: p1_retail_db
 
