@@ -2,7 +2,6 @@
 
 **Database:** `p1_retail_db`  
 **Table:** `retail_sales`  
-**Skill Level:** Beginner to Intermediate  
 **Focus:** SQL for Data Analysis
 
 ## 📌 Project Overview
